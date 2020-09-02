@@ -1,4 +1,4 @@
-[
+[ "line":[
    {
       "labels":"Jul",
       "data":25
@@ -22,5 +22,5 @@
    {
       "labels":"Dec",
       "data":66
-   }
+   }]
 ]
