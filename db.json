@@ -1,25 +1,26 @@
- [ {
-    labels: "Jul",
-    data:25 
+[
+   {
+      "labels":"Jul",
+      "data":25
    },
    {
-    labels: "Aug",
-    data:50 
+      "labels":"Aug",
+      "data":50
    },
    {
-    labels: "Sep",
-    data:30 
+      "labels":"Sep",
+      "data":30
    },
    {
-    labels: "Oct",
-    data:55 
+      "labels":"Oct",
+      "data":55
    },
    {
-    labels: "Nov",
-    data:10 
+      "labels":"Nov",
+      "data":10
    },
    {
-    labels: "Dec",
-    data:66 
+      "labels":"Dec",
+      "data":66
    }
-  ]
+]
